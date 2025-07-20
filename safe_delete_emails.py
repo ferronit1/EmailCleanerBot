@@ -1,7 +1,7 @@
 import imaplib
 
-EMAIL = "silvioferro917@gmail.com"
-PASSWORD = "xaxzrrduyyfpurhj"  
+EMAIL = "UR_MAIL"
+PASSWORD = "UR_PSSWD"  
 IMAP_SERVER = "imap.gmail.com"
 
 mail = imaplib.IMAP4_SSL(IMAP_SERVER)
